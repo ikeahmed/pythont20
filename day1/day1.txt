@@ -1,0 +1,9 @@
+why python? lets listen, ask questions and discuss https://www.youtube.com/watch?v=Y8Tko2YC5hA
+
+installation of 
+  python 
+  visual studio code
+  plugin 
+
+run 2 + 2 in python cli
+print('Hello World') in cli and in file
