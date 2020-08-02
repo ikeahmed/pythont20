@@ -1,0 +1,6 @@
+# visual stuido code video from Help -> Getting started guide
+#run code via cli as well as via file
+
+#How to save, run, open in VSCode 
+#quick 2 min video of how to create a folder and a new file 
+https://www.youtube.com/watch?v=fEp5nWvujhI
