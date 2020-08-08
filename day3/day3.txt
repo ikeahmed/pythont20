@@ -1,0 +1,5 @@
+see video of flow chart (section 2, video 4)
+practice  expressions on python CLI
+practice sample code of day 3
+
+
