@@ -1,11 +1,10 @@
 import random
 secret = random.randrange(1, 10)
-loop = True
-while loop:
+while True:
     guess = int(input("Please enter your guess number between 1 and 10: "))
     if(guess==secret):
         print("You got it!!")
-        loop = False
+        break
     elif(guess < secret):
         print("Your guess is too low")
     else:

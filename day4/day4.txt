@@ -1,10 +1,14 @@
+while loop
+
 for loop
 https://wiki.python.org/moin/ForLoop
 
+
+some code examples.
 exercise
 write numbers from 0 to 9 using
  for loop
  while loop
- while true, break
+ while True, break
  for else
  
