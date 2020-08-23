@@ -1,3 +1,18 @@
-Emoji . functions, and turtle library. 
+Recap of if statement and for loop
+emoji 
 python program for emojis
 https://www.geeksforgeeks.org/python-program-to-print-emojis/#:~:text=Using%20Unicodes%3A,%E2%80%9C%5C%E2%80%9D%20and%20print%20it.
+
+full emoji list unicode at 
+https://unicode.org/emoji/charts/full-emoji-list.html
+
+#exercise 1
+#print 40 smile faces, hint use for loop
+# exercise 2, print usa flag followed by your parent's country of origin 50 times
+
+functions
+pyperclip
+turtle library. 
+
+youtube:
+https://www.youtube.com/watch?v=oAz5eIpgTpg 
