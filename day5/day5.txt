@@ -1,0 +1,3 @@
+Emoji . functions, and turtle library. 
+python program for emojis
+https://www.geeksforgeeks.org/python-program-to-print-emojis/#:~:text=Using%20Unicodes%3A,%E2%80%9C%5C%E2%80%9D%20and%20print%20it.

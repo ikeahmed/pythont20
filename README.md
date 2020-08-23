@@ -12,12 +12,17 @@ Meeting Recording:
 https://us02web.zoom.us/rec/share/249rMY_i3H5LWdLL1gLvBI8fBqfeaaa8gHUe-KIOnkm3UerB7LmhfcDEKXofjZbq
 
 
-Day 6: Emoji and turtle library. Local and global variables. 
+Day 5: Emoji . functions, and turtle library. 
+
+Day 6:  Local and global variables. More on functions, discuss project
 
 Day 7: How to call REST service using python. How to do debugging. Discuss final project 
 
 Day 8: Quiz via Kahoot game, review projects, presentation 
 
-#python reference library
+References:
+#python 3.8 reference library
+https://docs.python.org/3.8/library/
 
-https://docs.python.org/3/library/, 
+#Python 3 reference library
+https://docs.python.org/3/library/
