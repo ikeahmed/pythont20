@@ -11,8 +11,9 @@ Day 4: Flow chart. For loop. While loop. More practice and sample code
 Meeting Recording:
 https://us02web.zoom.us/rec/share/249rMY_i3H5LWdLL1gLvBI8fBqfeaaa8gHUe-KIOnkm3UerB7LmhfcDEKXofjZbq
 
-
 Day 5: Emoji . functions, and turtle library. 
+Meeting Recording:
+https://us02web.zoom.us/rec/share/w_V2Hq_UzWFOWoX_1XHufOl4L6bUeaa8gCQdq6deyEZeNSMgwQWB3-M8gOZTKFRS
 
 Day 6:  Local and global variables. More on functions, discuss project
 

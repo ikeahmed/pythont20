@@ -12,8 +12,4 @@ print(demojize('🇵🇰'))
 print(demojize('🇺🇸'))
 print(emojize(':United_States:'))
 
-print("\U0001f600") 
 
-#exercise 1
-#print 40 smile faces, hint use for loop
-# exercise 2, print usa flag followed by your parent's country of origin 50 times
