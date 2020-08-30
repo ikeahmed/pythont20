@@ -10,7 +10,7 @@ https://unicode.org/emoji/charts/full-emoji-list.html
 #print 40 smile faces, hint use for loop
 # exercise 2, print usa flag followed by your parent's country of origin 50 times
 
-functions
+
 pyperclip
 turtle library. 
 

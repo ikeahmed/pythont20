@@ -1,0 +1,20 @@
+
+Introduction to functions
+video 9
+Write a function that takes name as parameter and prints Hello with that name passed in the parameter. 
+visualize python code step by step using www.pythontutor.com 
+
+len(), upper, lower, isUpper(), isLower()
+
+write a function  that takes three parameters  first name, middle name, last name and  prints name on credit card in all upper case. the credit card name 
+can only be 15 characters long due to print space limitation.
+verify as follows
+Ikhlas M Ahmed => IKHLAS M AHMED  
+Zad Ali Ahmed   => ZAD ALI AHMED 
+Shahadat Khan => SHAHADAT KHAN  
+Syed Huzaifa Nabeel => SYED H NABEEL
+Zakariah Saifullah => Z SAIFULLAH
+Muhammad Nasir Mohideen => M MOHIDEEN
+
+
+
