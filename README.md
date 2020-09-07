@@ -16,8 +16,12 @@ Meeting Recording:
 https://us02web.zoom.us/rec/share/w_V2Hq_UzWFOWoX_1XHufOl4L6bUeaa8gCQdq6deyEZeNSMgwQWB3-M8gOZTKFRS
 
 Day 6:  Local and global variables. More on functions, discuss project
+Meeting Recording:
+https://us02web.zoom.us/rec/share/U1EKQHv9Ix4s1NYLQVADjPGXn3LuDkqz2IeiQz3Ir837lN6-N5d9mNL6hf-cjlez.dCq7hlDNSq7n-9xz
 
 Day 7: How to call REST service using python. How to do debugging. Discuss final project 
+Meeting Recording:
+https://us02web.zoom.us/rec/share/VNTXLZblIXt8M5A5LZ-P12OTtKA6Y1mSLqD-J-x7FNJWFfrLBCwEfVw7Z-QnH6MX.DodEhdFV-HejsK8C
 
 Day 8: Quiz via Kahoot game, review projects, presentation 
 
@@ -27,3 +31,6 @@ https://docs.python.org/3.8/library/
 
 #Python 3 reference library
 https://docs.python.org/3/library/
+
+#pytyon w3school
+https://www.w3schools.com/python/default.asp 
