@@ -1,6 +1,8 @@
+https://www.youtube.com/watch?v=7YcW25PHnAA&t=13s
+
 https://www.youtube.com/watch?v=qriL9Qe8pJc
 
-http codes 
+http status codes 
 json
 rest operations (get, post, ...)
 
